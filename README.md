@@ -1,4 +1,4 @@
-# Project Propertities
+# INNOVA - PATİKA - JAVA BOOTCAMP AHMET AKAN 2. HAFTA ÖDEV
 
 
 * Requirements:
