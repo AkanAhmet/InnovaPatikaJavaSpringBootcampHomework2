@@ -1,5 +1,13 @@
 # INNOVA - PATİKA - JAVA BOOTCAMP AHMET AKAN 2. HAFTA ÖDEV
 
+This project includes Core Spring Subjects implemantation.
+
+ALTERNATİVE 
+QUALIFIER
+ENUM QUALIFIER
+INTERCEPTOR
+STEREOTYPE
+
 
 * Requirements:
 
